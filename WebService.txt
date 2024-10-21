@@ -1,0 +1,7 @@
+Marechal=ttps://its00480.itstransdata.com/ITS-InfoExport_5F4072FB-377B-4A6D-9550-281568D8EDEA/api/Data/VeiculosGTFS
+
+Pioneira=https://its00078.itstransdata.com/ITS-InfoExport_CA06FCF3-D34E-4567-B069-153EA5085D80/api/Data/VeiculosGTFS
+
+Piracicabana=https://servicos.cittati.com.br/WSIntegracaoCittati/DFTrans/Veiculos/VPDF
+
+Urbi=https://servicos.cittati.com.br/WSIntegracaoCittati/DFTrans/Veiculos
